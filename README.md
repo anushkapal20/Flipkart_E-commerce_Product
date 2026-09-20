@@ -12,12 +12,14 @@ The dataset was cleaned using Python, analyzed using SQL queries in MySQL Workbe
 * Tableau Public
 * VS Code
 * GitHub
+  
 ⸻
 > Dataset Information
 
 * Dataset: Flipkart E-Commerce Product Dataset
 * Total Records: 29,870
 * Data Cleaning: Removed null values using Python (Pandas).
+  
 ⸻
 > Project Workflow
 
@@ -28,6 +30,7 @@ The dataset was cleaned using Python, analyzed using SQL queries in MySQL Workbe
 5. Performed SQL queries to analyze product data.
 6. Created an interactive Tableau dashboard for visualization.
 7. Uploaded the complete project to GitHub.
+   
 ⸻
 > Dashboard Insights
 
@@ -38,6 +41,7 @@ The Tableau dashboard includes:
 * Top Brands
 * Average Discount by Category
 * Price Distribution
+  
 ⸻
 > Project Files
 
@@ -45,6 +49,7 @@ The Tableau dashboard includes:
 * flipkart_analysis.py — Python data cleaning script.
 * mysql_queries.sql — SQL queries used for analysis.
 * Tableau Dashboard — Data visualization dashboard.
+  
 ⸻
 > Key Insights
 
@@ -53,6 +58,7 @@ The Tableau dashboard includes:
 * Found the brands with the highest number of products.
 * Analyzed average discounts across different categories.
 * Visualized product price distribution using Tableau.
+  
 ⸻
 > Author
 
